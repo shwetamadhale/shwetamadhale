@@ -8,11 +8,13 @@
   <a href="https://linkedin.com/in/shwetamadhale" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  <a href="https://drive.google.com/file/d/1wGshsmJ1hwRd2z8MIxPl5HzegtJyixhl/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-%23E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=435&lines= Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=435&lines=Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -33,6 +35,9 @@ I design and deploy smart, scalable software solutions that bridge clean code an
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -50,7 +55,7 @@ I design and deploy smart, scalable software solutions that bridge clean code an
 ### ☁️ Cloud & DevOps
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -121,10 +126,19 @@ I design and deploy smart, scalable software solutions that bridge clean code an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&theme=default" alt="shwetamadhale" />
 </div>
 
+## 🏆 Achievements
+
+- **Machine Learning Coordinator** at Google Developer Students Club
+- **Top 20** in Matrix Intercollegiate Quiz Competition
+- **Certificate of Merit** for academic excellence (Ranked 3rd in Department)
+- **Winner** of IEEE Project Competition for RLC Circuit Analysis
 
 ## 📫 Let's Connect
 
 <p align="center">
+  <a href="mailto:shwetarmadhale@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://linkedin.com/in/shwetamadhale" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
