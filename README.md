@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png" alt="header" width="100%"/>
-</div>
-
 <h1 align="center">Hi! I'm Shweta Madhale 👋</h1>
 <h3 align="center">Full-Stack Developer | Applied AI/ML Engineer</h3>
 
