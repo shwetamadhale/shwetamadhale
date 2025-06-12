@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shweta Madhale</h1>
 <h3 align="center">Master's in Computer Science @ Stevens Institute of Technology</h3>
 
