@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=435&lines=Code+to+Solve%2C+Scale%2C+and+Simplify.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=435&lines="Code+to+Solve%2C+Scale%2C+and+Simplify."" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
