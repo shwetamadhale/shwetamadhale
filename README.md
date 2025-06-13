@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<div align="center" style="margin: 20px 0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=435&lines=Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=435&lines=Code+to+Solve%2C+Scale%2C+and+Simplify.;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -114,31 +114,36 @@ I design and deploy smart, scalable software solutions that bridge clean code an
 ## 📊 GitHub Stats
 
 <div align="center" style="margin: 30px 0">
-  <!-- Explanation: The "C" icon appears because GitHub detects C header files (.h) in your repos -->
-  <!-- To customize these stats, you can create a hidden .github repository with a languages.yml file -->
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" style="max-width: 100%"/>
-  </picture>
 
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&theme=dark&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" style="max-width: 100%"/>
-  </picture>
+<!-- ALL-TIME STATS WITH CUSTOMIZATION -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27" alt="GitHub Stats" style="max-width: 100%"/>
+</picture>
+
+<!-- TOP LANGUAGES WITH CUSTOM FILTERING -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400" alt="Top Languages" style="max-width: 100%"/>
+</picture>
+
+<!-- WEEKLY ACTIVITY (OPTIONAL) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetamadhale&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" style="max-width: 100%"/>
+
 </div>
 
 ## 🏆 Achievements
