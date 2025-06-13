@@ -121,8 +121,7 @@ My expertise spans:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400" alt="Top Languages" style="max-width: 100%"/>
 </picture>
 
-<!-- WEEKLY ACTIVITY (OPTIONAL) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shwetamadhale&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" style="max-width: 100%"/>
+
 
 </div>
 
