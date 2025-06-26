@@ -135,9 +135,6 @@ My expertise spans:
 ## 📫 Let's Connect
 
 <div align="center" style="margin-top: 20px">
-  <a href="mailto:shwetarmadhale@gmail.com" style="margin: 0 10px">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://linkedin.com/in/shwetamadhale" target="_blank" style="margin: 0 10px">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
