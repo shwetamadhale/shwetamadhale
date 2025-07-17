@@ -125,12 +125,6 @@ My expertise spans:
 
 </div>
 
-## 🏆 Achievements
-
-- <strong>Machine Learning Coordinator</strong> at Google Developer Students Club
-- <strong>Top 20</strong> in Matrix Intercollegiate Quiz Competition
-- <strong>Certificate of Merit</strong> for academic excellence (Ranked 3rd in Department)
-- <strong>Winner</strong> of IEEE Project Competition for RLC Circuit Analysis
 
 ## 📫 Let's Connect
 
