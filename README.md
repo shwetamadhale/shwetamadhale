@@ -24,29 +24,7 @@ Building smart, scalable solutions with **MERN stack**, **Python**, and **AI/ML*
 
 ---
 
-## 📈 GitHub Activity
 
-<div align="center">
-  
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&hide_border=true" alt="GitHub Streak"/>
-</picture>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
