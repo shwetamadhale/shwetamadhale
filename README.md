@@ -1,141 +1,89 @@
-
 <h1 align="center">Hello! I'm Shweta Madhale</h1>
 <h3 align="center">Full-Stack Developer | Applied AI/ML Engineer</h3>
 
 <p align="center">
-  <a href="https://shwetamadhale.github.io" target="_blank" style="margin: 0 5px">
-    <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  <a href="https://shwetamadhale.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-5BCDEC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/shwetamadhale" target="_blank" style="margin: 0 5px">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/shwetamadhale" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=600&lines=Code+to+Solve%E2%80%9A+Scale%E2%80%9A+and+Simplify." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=500&lines=Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG"/>
 </div>
 
-
+---
 
 ## 🚀 About Me
 
-I design, develop, and deploy smart, scalable software solutions that bridge clean code and complex data. 
-My expertise spans:
-- **Full-Stack Development** (MERN stack, Java, Python)
-- **Cloud Engineering** (AWS, GCP, Docker)
-- **Applied AI/ML** (NLP, Deep Learning, LLMs)
-- **Data Engineering** (Pandas, SQL, Big Data)
+Building smart, scalable solutions with **MERN stack**, **Python**, and **AI/ML**. I bridge clean code with complex data to create impactful applications.
 
+**Core Focus:** Full-Stack Development • Cloud Engineering • Applied AI/ML • Data Engineering
 
-## 📊 GitHub Stats
+---
 
-<div align="center" style="margin: 30px 0">
+## 📈 GitHub Activity
 
-<!-- ALL-TIME STATS WITH CUSTOMIZATION -->
+<div align="center">
+  
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
+    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27" alt="GitHub Stats" style="max-width: 100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 </picture>
 
-<!-- TOP LANGUAGES WITH CUSTOM FILTERING -->
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&theme=dark&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400" alt="Top Languages" style="max-width: 100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&hide_border=true" alt="GitHub Streak"/>
 </picture>
 
-
-
 </div>
 
+---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### 💻 Core Development
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</div>
+```text
+Languages    JavaScript • Python • Java • SQL
+Frontend     React • HTML/CSS • Responsive Design
+Backend      Node.js • Express • RESTful APIs
+Cloud        AWS • Docker • CI/CD
+AI/ML        TensorFlow • PyTorch • HuggingFace • Pandas
+Databases    MongoDB • PostgreSQL • MySQL
+```
 
-### ☁️ Cloud & DevOps
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</div>
-
-### 🧠 AI/ML Stack
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</div>
-
-### 🗄️ Databases
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
+---
 
 ## 🌟 Featured Projects
 
-<div style="display: flex; flex-direction: column; gap: 15px; margin: 20px 0">
-  <div>
-    <h3><a href="https://github.com/shwetamadhale/groceriq">GrocerIQ</a></h3>
-    <p>AI-powered grocery planning app with personalized recommendations</p>
-    <p><em>Tech: React, Node.js, MongoDB, LLMs</em></p>
-  </div>
-  
-  <div>
-    <h3><a href="https://github.com/shwetamadhale/cloud-migration">Cloud Microservices Migration</a></h3>
-    <p>Legacy app modernization with AWS and Docker</p>
-    <p><em>Tech: AWS, Docker, CI/CD</em></p>
-  </div>
-  
-  <div>
-    <h3><a href="https://github.com/shwetamadhale/llm-pdf-assistant">LLM PDF Assistant</a></h3>
-    <p>Context-aware PDF chatbot with 83% response accuracy</p>
-    <p><em>Tech: Python, Streamlit, HuggingFace</em></p>
-  </div>
-</div>
+**[GrocerIQ](https://github.com/shwetamadhale/groceriq)** - AI-powered grocery planning with personalized recommendations  
+*React • Node.js • MongoDB • LLMs*
+
+**[Cloud Migration](https://github.com/shwetamadhale/cloud-migration)** - Legacy app modernization with microservices  
+*AWS • Docker • CI/CD*
+
+**[LLM PDF Assistant](https://github.com/shwetamadhale/llm-pdf-assistant)** - Context-aware PDF chatbot (83% accuracy)  
+*Python • Streamlit • HuggingFace*
+
+---
 
 ## 📜 Certifications
 
-- <strong>Neural Networks and Deep Learning</strong> - deeplearning.ai (Coursera)
-- <strong>30 Days of Google Cloud</strong> - Cloud Engineering & Data Science
-- <strong>Object Oriented Programming with Java</strong> - Coursera
-- <strong>AWS Cloud Practitioner</strong> (In Progress)
+• **Neural Networks and Deep Learning** - deeplearning.ai  
+• **30 Days of Google Cloud** - Engineering & Data Science  
+• **AWS Cloud Practitioner** *(In Progress)*
 
+---
 
-
-## 📫 Let's Connect
-
-<div align="center" style="margin-top: 20px">
-  <a href="https://linkedin.com/in/shwetamadhale" target="_blank" style="margin: 0 10px">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shwetamadhale" target="_blank" style="margin: 0 10px">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<div align="center">
+  <a href="https://linkedin.com/in/shwetamadhale">
+    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
