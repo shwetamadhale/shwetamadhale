@@ -3,15 +3,18 @@
 
 <p align="center">
   <a href="https://shwetamadhale.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-5BCDEC?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/shwetamadhale" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&width=500&lines=Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1200&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=💻+Code+to+Solve;🚀+Scale+with+Precision;✨+Simplify+the+Complex;🎯+Build+Smart+Solutions" alt="Typing SVG"/>
 </div>
 
 ---
@@ -24,7 +27,29 @@ Building smart, scalable solutions with **MERN stack**, **Python**, and **AI/ML*
 
 ---
 
+## 📈 GitHub Activity
 
+<div align="center">
+  
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetamadhale&hide_border=true" alt="GitHub Streak"/>
+</picture>
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -62,6 +87,9 @@ Databases    MongoDB • PostgreSQL • MySQL
 
 <div align="center">
   <a href="https://linkedin.com/in/shwetamadhale">
-    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/🤝_Let's_Connect-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://shwetamadhale.github.io">
+    <img src="https://img.shields.io/badge/🔗_View_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
