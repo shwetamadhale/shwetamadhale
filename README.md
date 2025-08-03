@@ -14,7 +14,7 @@
 </p>
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nata+Sans&duration=3500&pause=1000&color=F77F18&center=true&vCenter=true&width=435&lines=Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=26&duration=3500&pause=1000&color=F71855&center=true&vCenter=true&width=435&lines=Code+to+Solve%2C+Scale%2C+and+Simplify." alt="Typing SVG" /></a>
 </div>
 
 ---
