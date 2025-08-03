@@ -27,6 +27,42 @@ My expertise spans:
 - **Applied AI/ML** (NLP, Deep Learning, LLMs)
 - **Data Engineering** (Pandas, SQL, Big Data)
 
+
+## 📊 GitHub Stats
+
+<div align="center" style="margin: 30px 0">
+
+<!-- ALL-TIME STATS WITH CUSTOMIZATION -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27" alt="GitHub Stats" style="max-width: 100%"/>
+</picture>
+
+<!-- TOP LANGUAGES WITH CUSTOM FILTERING -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400" alt="Top Languages" style="max-width: 100%"/>
+</picture>
+
+
+
+</div>
+
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Core Development
@@ -91,39 +127,6 @@ My expertise spans:
 - <strong>Object Oriented Programming with Java</strong> - Coursera
 - <strong>AWS Cloud Practitioner</strong> (In Progress)
 
-## 📊 GitHub Stats
-
-<div align="center" style="margin: 30px 0">
-
-<!-- ALL-TIME STATS WITH CUSTOMIZATION -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=shwetamadhale&show_icons=true&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true&line_height=27" alt="GitHub Stats" style="max-width: 100%"/>
-</picture>
-
-<!-- TOP LANGUAGES WITH CUSTOM FILTERING -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetamadhale&layout=compact&hide_border=true&langs_count=8&exclude_repo=repo1,repo2&hide=c,html,css,scss&card_width=400" alt="Top Languages" style="max-width: 100%"/>
-</picture>
-
-
-
-</div>
 
 
 ## 📫 Let's Connect
