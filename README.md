@@ -60,13 +60,3 @@ Databases    MongoDB • PostgreSQL • MySQL
 • **30 Days of Google Cloud** - Engineering & Data Science  
 • **AWS Cloud Practitioner** *(In Progress)*
 
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/shwetamadhale">
-    <img src="https://img.shields.io/badge/🤝_Let's_Connect-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://shwetamadhale.github.io">
-    <img src="https://img.shields.io/badge/🔗_View_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
