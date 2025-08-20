@@ -1,18 +1,6 @@
 <h1 align="center">Hello! I'm Shweta Madhale</h1>
 <h3 align="center">Full-Stack Developer | Applied AI/ML Engineer</h3>
 
-<p align="center">
-  <a href="https://shwetamadhale.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/shwetamadhale" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=AE19D4&width=435&lines=Solving%2C+Simplifying%2C+and+Scaling!" alt="Typing SVG" /></a></div>
 
