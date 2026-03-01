@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Building smart, scalable solutions with **MERN stack**, **Python**, and **AI/ML**. I bridge clean code with complex data to create impactful applications.
 
@@ -15,7 +15,7 @@ Building smart, scalable solutions with **MERN stack**, **Python**, and **AI/ML*
 ---
 
 
-## 🛠️ Tech Stack
+## Technical Stack
 
 ```text
 Languages    JavaScript • Python • Java • SQL
@@ -28,7 +28,7 @@ Databases    MongoDB • PostgreSQL • MySQL
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 **[GrocerIQ](https://github.com/shwetamadhale/groceriq)** - AI-powered grocery planning with personalized recommendations  
 *React • Node.js • MongoDB • LLMs*
@@ -41,7 +41,7 @@ Databases    MongoDB • PostgreSQL • MySQL
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 • **Neural Networks and Deep Learning** - deeplearning.ai  
 • **30 Days of Google Cloud** - Engineering & Data Science  
