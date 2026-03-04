@@ -6,14 +6,6 @@
 
 ---
 
-## About Me
-
-Building smart, scalable solutions with **MERN stack**, **Python**, and **AI/ML**. I bridge clean code with complex data to create impactful applications.
-
-**Core Focus:** Full-Stack Development • Cloud Engineering • Applied AI/ML • Data Engineering
-
----
-
 
 ## Technical Stack
 
