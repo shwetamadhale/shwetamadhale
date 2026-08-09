@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Shweta Madhale</h1>
+<h1 align="center">Hello! I'm Shweta Madhale</h1>
 <h3 align="center">Full-Stack Developer | Applied AI/ML Engineer</h3>
 
 <div align="center"> 
