@@ -37,5 +37,4 @@ Databases    MongoDB • PostgreSQL • MySQL
 
 • **Neural Networks and Deep Learning** - deeplearning.ai  
 • **30 Days of Google Cloud** - Engineering & Data Science  
-• **AWS Cloud Practitioner** *(In Progress)*
 
